@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2> Hi, I'm Åke Ek! </h2>
 
-<!--
-**akeek/akeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>FrontEnd-student at Noroff</p>
 
-Here are some ideas to get you started:
+### More about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const åke = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [Wordpress, Adobe XD],
+  challenge:
+    "Balancing a full-time job with a part-time job and full-time studies",
+};
+```
+
+<em>I like to connect to people, so please say hello :)</em>
+
+---
