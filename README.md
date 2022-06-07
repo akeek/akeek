@@ -1,6 +1,6 @@
 <h2> Hi, I'm Åke Ek! </h2>
 
-<p>FrontEnd-student at Noroff</p>
+<p>FrontEnd-student at Noroff!</p>
 
 ### More about me...
 
