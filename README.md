@@ -8,6 +8,7 @@
 const åke = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
+  frameworks: [React, SASS, Bootstrap]
   tools: [Wordpress, Adobe XD],
   challenge:
     "Balancing a full-time job with a part-time job and full-time studies",
