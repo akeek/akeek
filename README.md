@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **portfolio-2**
+- 🔭 I’m currently working on **RandomPhoto**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 Some of my projects are available at [https://ake-portfolio.netlify.app](https://ake-portfolio.netlify.app)
 
