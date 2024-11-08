@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akeek&label=Profile%20views&color=0e75b6&style=flat" alt="akeek" /> </p>
 
-- 🔭 I’m currently working on **Getting a job**
+- 🔭 I’m currently working on **learning TypeScript**
 
 - 👨‍💻 Some of my projects are available at [https://ake-portfolio.netlify.app](https://ake-portfolio.netlify.app)
 
